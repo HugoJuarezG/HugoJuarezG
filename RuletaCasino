@@ -42,6 +42,12 @@ class Ruleta:
     
     Saldo_min_jugador1 = [1,000]
     
+    # Numneros selecionados por el jugador
+    Num_seleccionados = []
+    Num_pares = []
+    Num_impares = []
+    Num_colum = []
+    
     #Saldo maximo del jugador
     
     Saldo_max_jugador = [10,000]
