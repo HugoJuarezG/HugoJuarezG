@@ -73,7 +73,3 @@ class Ruleta:
         r = Ruleta1()
         
         r.girar()
-        
-        
-    
-    
